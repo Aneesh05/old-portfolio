@@ -71,7 +71,7 @@ const projects = [
 		imgSrc: "/portfolio/images/armbot.jpg",
 		title: "Arduino Armbot",
 		description:
-			"Designed the base and arms of the robot using CAD. Used Arduino electronics, servo motors, joysticks along with 3D printed parts to put together. Code written in C++ using Arduino",
+			"Designed the base and arms of the robot using CAD. Used Arduino electronics, servo motors, joysticks along with 3D printed parts to put together. Code written in C++ using Arduino.",
 		tags: [
 			createTag(
                 <SiCplusplus className={iconClassName} />,
